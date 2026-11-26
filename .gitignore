@@ -1,0 +1,4 @@
+.env
+ai/data/raw/
+ai/models/*.joblib
+__pycache__/
